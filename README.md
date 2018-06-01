@@ -29,7 +29,7 @@
 Использовал_а регулярное выражение: Нов.город+[^.?!;:-]
 
 Всего упоминаний Новгорода нашела: 58
-![alt text]
+![alt text](https://github.com/wentkonoplya/result.txt/blob/master/3.png)
 
 4. Бонус:
 
